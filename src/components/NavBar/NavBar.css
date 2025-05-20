@@ -1,0 +1,48 @@
+.text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: 200;
+  left: 781px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 45px;
+}
+
+.text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 200;
+  left: 942px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 45px;
+}
+
+.text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 200;
+  left: 1124px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 45px;
+}
+
+.overlap-group {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 110px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 41px;
+  left: 1243px;
+  position: absolute;
+  top: 30px;
+  width: 14px;
+}

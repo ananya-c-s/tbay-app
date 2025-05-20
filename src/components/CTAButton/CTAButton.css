@@ -1,0 +1,34 @@
+.text-wrapper-4 {
+  color: #5fcad8;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+}
+
+.overlap {
+  /* background-image: url(./rectangle-43.svg); */
+  background-size: 100% 100%;
+  height: 102px;
+  left: 590px;
+  position: absolute;
+  top: 681px;
+  width: 274px;
+}
+
+.text-wrapper-8 {
+  color: #ffffff;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 36px;
+  font-weight: 500;
+  left: 54px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+}
